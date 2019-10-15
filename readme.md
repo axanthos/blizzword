@@ -4,7 +4,9 @@
 
 ### Authors
 Jérôme Jacquin & Aris Xanthos
+
 Department of Language and Information Sciences
+
 University of Lausanne
 
 ### Synopsis
