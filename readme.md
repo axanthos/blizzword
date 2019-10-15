@@ -3,10 +3,8 @@
 ## An open-source resource for linguistic game studies
 
 ### Authors
-Jérôme Jacquin & Aris Xanthos
-
-Department of Language and Information Sciences
-
+Jérôme Jacquin & Aris Xanthos  
+Department of Language and Information Sciences  
 University of Lausanne
 
 ### Synopsis
