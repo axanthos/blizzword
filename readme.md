@@ -13,7 +13,7 @@ BLIZZWORD is a corpus of rule and flavor text from Hearthstone&reg; cards. Card 
 In the hope of fostering research in this emerging field, the BLIZZWORD corpus is released publicly and licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ### Documentation
-Each card is enclosed in a `<card>` tag with a number of attributes (see example below). It usually contains a `<rule>` tag, which contains the text describing the card's effect, and a `<flavor>` tag which contains the so-called "flavor text", used to relate the card with the game’s cultural background. These texts are then further divided into `<token>` tags, each of which has a `lemma` and `pos-tag` attribute. Here's an example of a card in BLIZZWORD:
+Each card is enclosed in a `<card>` tag with a number of attributes (see example below). It usually contains a `<rules>` tag, which contains the text describing the card's effect, and a `<flavor>` tag which contains the so-called "flavor text", used to relate the card with the game’s cultural background. These texts are then further divided into `<token>` tags, each of which has a `lemma` and `pos-tag` attribute. Here's an example of a card in BLIZZWORD:
 ```xml
   <card name="Fallen Hero" num="468" id="AT_003" set="6_TGT" cost="2" attack="3" health="2" rarity="RARE" category="MINION" playerClass="MAGE">
     <rules>
