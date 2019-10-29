@@ -14558,7 +14558,7 @@
       <token lemma="only|adv" pos-tag="adv">only</token>
       <token lemma="have|v" pos-tag="v|ind_pres">have</token>
       <token lemma="15" pos-tag="num">15</token>
-      <token lemma="second|name" pos-tag="n|pl">seconds</token>
+      <token lemma="second|n" pos-tag="n|pl">seconds</token>
       <token lemma="to|mark" pos-tag="mark|inf">to</token>
       <token lemma="take" pos-tag="v|inf">take</token>
       <token lemma="their" pos-tag="det|poss">their</token>
