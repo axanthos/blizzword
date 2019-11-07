@@ -50,4 +50,5 @@ Each card is enclosed in a `<card>` tag with a number of attributes (see example
   </card>
 
 ```
-
+### Acknowledgements
+The authors are most grateful to the Faculty of Arts of the University of Lausanne for the financial support and to Laura Schött for her participation in the corpus annotation.
