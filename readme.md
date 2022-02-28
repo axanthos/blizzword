@@ -58,5 +58,5 @@ The authors are most grateful to the Faculty of Arts of the University of Lausan
 - Jacquin, J., & Xanthos, A. (2019). L’évolution de la complexité linguistique dans un jeu de cartes numérique: Un exemple de Linguistic Game Studies. Colloque international « Les langages du jeu vidéo : codes, discours et images en jeu », Lausanne (Switzerland). https://www.youtube.com/watch?v=FUXLIqXegUM
 - Jacquin, J., & Xanthos, A. (2021). Evolution of linguistic complexity in Hearthstone: A resource and an example in linguistic game studies. Digital Scholarship in the Humanities, 36(4), 907–918. https://doi.org/10.1093/llc/fqaa065
 
-### To cite this resource
+### How to cite this resource
 Jacquin, J., & Xanthos, A. (2020). BLIZZWORD V1.0: A free resource for linguistic game studies [Github repository], Lausanne: University of Lausanne. https://github.com/axanthos/blizzword
